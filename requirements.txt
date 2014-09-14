@@ -1,2 +1,26 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+
+
+# ----------------------
+# Testing
+# ----------------------
+mock
+
+
+# ----------------------
+# Production Server
+# ----------------------
+gevent
+gunicorn
 argparse==1.2.1
-wsgiref==0.1.2
+
+# ----------------------
+# Database
+# ----------------------
+SQLAlchemy
+Flask-RESTful
+Flask-SQLAlchemy
+alembic
